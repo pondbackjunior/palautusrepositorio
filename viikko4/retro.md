@@ -1,0 +1,5 @@
+Retrospektiivi on projektin lopussa käytävä kokous, jossa katsotaan mitkä asiat projektin tuotannossa meni hyvin ja missä voisi parantaa.
+
+Ensimmäinen tekniikka on nopea 10-25 minuutin tekniikka, jossa tiimi kerää palautetta viidestä kategoriasta: mitä pitäisi aloittaa, lopettaa, jatkaa, lisätä ja vähentää. Avustaja ottaa palautteen vastaan pyörällä, joka on jaettu näihin kategorioihin. Tämän jälkeen tiimit miettivät, mikä toimi ja mikä tarvitsee parannusta, jotta jotain saadaan aikaiseksi. Suuremmissa tiimeissä pienemmät ryhmät muodostavat kategoriakohtaisia pyöriä, jotka myöhemmin tarkastetaan ja niitä pohditaan keskenään, jotta voidaan päättää tulevista töistä.
+
+Toinen tekniikka on järjestelmällinen tunnin kestävä tekniikka, jossa painostetaan tiimin laajempaa näkemystä. Osallistujat listaavat näkemyksiään sprintistä ja kategorioivat ne asteikolla iloinen/surullinen/vihainen. Kun saman kategorian näkemykset on ryhmitetty keskenään, osallistujat äänestävät, mitä näkemyksistä pitäisi ruveta pohtimaan. Tämä tekniikka takaa avoimen keskustelun tiimissä ja priorisoi ratkaisujen löytämistä seuraavalle sprintille.
